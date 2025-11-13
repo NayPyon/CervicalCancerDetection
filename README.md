@@ -1,6 +1,6 @@
 # Cervical Cancer Detection with Deep Learning 🔬
 
-![Prediction Demo](https://via.placeholder.com/800x400?text=Upload+Your+Prediction+Screenshot+Here)  
+![Prediction Demo](https://github.com/NayPyon/CervicalCancerDetection/blob/main/Screenshot%202025-11-12%20162719.png)  
 *(Replace the image above with your actual prediction screenshot later on GitHub)*
 
 This project is an **AI-based Computer Vision** application designed to detect and classify cervical cancer cells from microscopic (Pap smear) images. It is built with **Python** and **TensorFlow**, using *Transfer Learning* techniques.
