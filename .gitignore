@@ -1,0 +1,15 @@
+# Abaikan folder virtual environment
+venv/
+
+# Abaikan folder data (karena besar)
+data/
+
+# Abaikan file cache Python
+__pycache__/
+
+# Abaikan file sistem VS Code
+.vscode/
+
+# Abaikan file model yang terlalu besar (opsional, tapi disarankan jika >100MB)
+# Untuk saat ini kita upload modelnya, jadi jangan tulis *.keras di sini
+# Kecuali jika upload gagal karena ukuran, baru tambahkan *.keras
